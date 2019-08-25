@@ -1,0 +1,8 @@
+{
+  "name": "Boba Buddy Backend",
+  "description": "A mobile .",
+  "repository": "https://github.com/chrisckchang/mean-contactlist",
+  "logo": "https://mlab.com/company/brand/resources/mLab-logo-onlight.png",
+  "keywords": ["node", "express", "react-native", "MERN", "mongodb", "REST", "API"],
+  "addons": ["mongolab"]
+}
